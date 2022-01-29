@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aws-sam-client/static/css/main.032909b7.css",
-    "main.js": "/aws-sam-client/static/js/main.03508fb1.js",
+    "main.js": "/aws-sam-client/static/js/main.6c68551e.js",
     "index.html": "/aws-sam-client/index.html",
     "main.032909b7.css.map": "/aws-sam-client/static/css/main.032909b7.css.map",
-    "main.03508fb1.js.map": "/aws-sam-client/static/js/main.03508fb1.js.map"
+    "main.6c68551e.js.map": "/aws-sam-client/static/js/main.6c68551e.js.map"
   },
   "entrypoints": [
     "static/css/main.032909b7.css",
-    "static/js/main.03508fb1.js"
+    "static/js/main.6c68551e.js"
   ]
 }
