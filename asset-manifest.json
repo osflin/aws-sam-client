@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aws-sam-client/static/css/main.032909b7.css",
+    "main.js": "/aws-sam-client/static/js/main.7607651e.js",
+    "index.html": "/aws-sam-client/index.html",
+    "main.032909b7.css.map": "/aws-sam-client/static/css/main.032909b7.css.map",
+    "main.7607651e.js.map": "/aws-sam-client/static/js/main.7607651e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032909b7.css",
+    "static/js/main.7607651e.js"
+  ]
+}
