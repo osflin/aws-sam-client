@@ -7,7 +7,7 @@ This applications connects to the [AWS SAM](https://github.com/osflin/aws-sam) c
 
 Demo url : https://osflin.github.io/aws-sam-client/
 
-Connects to aws servless deployment ( API gateway, lambda node js and dynamodb for storage)
+Connects to aws servless deployment ( API gateway, lambda, node js and dynamodb for storage)
 
 .env file:  
 `REACT_APP_API=http://localhost:3030/`.
